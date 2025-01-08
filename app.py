@@ -25,7 +25,7 @@ if model:
 
     if historical_data is not None:
         # Title and description
-        st.title("Weather Forecasting App")
+        st.title("Temperature Prediction App")
         st.subheader("This app uses a CNN-RNN hybrid model to predict temperature.")
         st.divider()
 
