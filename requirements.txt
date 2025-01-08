@@ -6,3 +6,5 @@ keras
 scikit-learn
 matplotlib
 tensorflow
+CUDA
+cuDNN
